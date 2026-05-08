@@ -1,7 +1,7 @@
 ## testファイル作成
-tests/template.spect.tsというファイルを作成する例
+tests/example.spect.tsというファイルを作成する例
 ```
-npx playwright codegen --target=playwright-test -o tests/template.spec.ts
+npx playwright codegen --target=playwright-test -o tests/example.spec.ts
 ```
 
 ## testの実行
