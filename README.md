@@ -1,7 +1,7 @@
 ## Setup
 ```
 npm install
-``
+```
 
 ## testファイル作成
 tests/example.spect.tsというファイルを作成する例
